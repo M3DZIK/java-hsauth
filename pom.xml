@@ -6,11 +6,17 @@
 
     <groupId>dev.medzik</groupId>
     <artifactId>hsauth</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
+    <description>
+        HSAuth is a user authentication algorithm
+        which was created to eliminate the need to send the password or even its hash to the server.
+        This makes authentication more secure because the password never touches the server.
+    </description>
+    <url>https://hsauth.medzik.dev</url>
 
     <developers>
         <developer>
-            <name>M3DZIK</name>
+            <name>Oskar Karpiński</name>
             <email>me@medzik.dev</email>
         </developer>
     </developers>
